@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/training_styled_components/static/css/main.4acae39f.css",
+    "main.js": "/training_styled_components/static/js/main.055cff1d.js",
+    "static/js/453.ed3810f9.chunk.js": "/training_styled_components/static/js/453.ed3810f9.chunk.js",
+    "static/media/Rectangle.jpg": "/training_styled_components/static/media/Rectangle.05d8942b01d2b2e723f2.jpg",
+    "index.html": "/training_styled_components/index.html",
+    "main.4acae39f.css.map": "/training_styled_components/static/css/main.4acae39f.css.map",
+    "main.055cff1d.js.map": "/training_styled_components/static/js/main.055cff1d.js.map",
+    "453.ed3810f9.chunk.js.map": "/training_styled_components/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acae39f.css",
+    "static/js/main.055cff1d.js"
+  ]
+}
